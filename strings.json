@@ -1,0 +1,11 @@
+{
+	"key1":	"Transifex supports over 25 localization file formats.",
+	"key2":	"You can learn more about each one by clicking on the respective link in the left menu.",
+	"key3":	"If you use a file format that's not in the list, let us know and we may be able to help you.",
+	"key4":	"For most file formats, Transifex uses UTF-8 encoding.",
+	"key5":	"This means files you upload to Transifex must be encoded in UTF-8, and all files downloaded from Transifex will be in UTF-8.",
+	"key6":	"There are some exceptions in cases where a file format specification requires a different encoding.",
+	"key7":	"For example, JAVA .properties files uses ISO-8859-1 and Apple's .strings files uses UTF-16.",
+	"key8":	"For every file you have, you can download a different version depending on your needs.",
+	"key9":	"These different versions are called modes."
+}
